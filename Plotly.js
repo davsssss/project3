@@ -17,8 +17,8 @@ function init() {
     x:initialBarData.map(row=>row.Youtuber),
     y: initialBarData.map(row=>row.Subscribers),
     type: "bar",
-    marker: {
-      size:10}
+    text: initialBarData.map(row => `Youtuber: ${row.Youtuber}<br>Category: ${row.Category}<br>Subscribers: ${row.Subscribers}`), // Customize hover text
+  
   }];
   Plotly.newPlot("bar", barChartData, barChartLayout);
 }
@@ -32,11 +32,23 @@ function getData() {
 
   // Assign the value of the dropdown menu option to a letiable
   let dataset = dropdownMenu.property("value");
+  console.log(dataset)
 
   // Initialize an empty array for the country's data
+if (dataset != "All Data"){
   let updatedPieData =  Object.values(pieData[dataset]);
   let updatedPieLabels =  Object.keys(pieData[dataset]);
-  
+  updatePiePlotly(updatedPieData,updatedPieLabels);
+
+function updatePiePlotly(updatedPieData,updatedPieLabels) {
+var update = {
+    values: [updatedPieData],
+    labels: [updatedPieLabels],
+    textinfo: 'label+value'
+    };
+    Plotly.update("pie",update, pieChartLayout);
+}
+
   function updateBar(entry){
     return entry.Country == dataset;
 }
@@ -46,28 +58,36 @@ function getData() {
     y: updatedBarData.map(row=>row.Subscribers),
     type: "bar",
     width:.7,
-    marker: {
-      hovertemplate: '<b>%{x}</b><br>Subscribers: %{y}', // Customize hover template
-    },
+    text: updatedBarData.map(row => `Youtuber: ${row.Youtuber}<br>Category: ${row.Category}<br>Subscribers: ${row.Subscribers}`), // Customize hover text
   }];
   Plotly.newPlot("bar", updatedBarChartData, barChartLayout);
-
-// Call function to update the chart
-  updatePiePlotly(updatedPieData,updatedPieLabels);
 }
-
-// Update the restyled plot's values
-function updatePiePlotly(updatedPieData,updatedPieLabels) {
-var update = {
-    values: [updatedPieData],
-    labels: [updatedPieLabels],
+else if (dataset == "All Data"){
+  let pieChartData2 = [{
+    values:  Object.values(allCatData),
+    labels: Object.keys(allCatData),
+    type: "pie",
     textinfo: 'label+value'
-    };
-    Plotly.update("pie",update);
+  }];
+  Plotly.purge("bar");
+  Plotly.newPlot("pie", pieChartData2, pieAllChartLayout);
+}
 }
 
 let pieChartLayout = {
   height: 500,
+  width: 1500,
+  margin: {
+    l: 550,
+    },
+  title: {
+    text:"<b>Channel Content Distribution<b>",
+    x:.72
+  }
+};
+
+let pieAllChartLayout = {
+  height: 800,
   width: 1500,
   margin: {
     l: 550,
@@ -106,6 +126,7 @@ title: {
   text:"<b>Channel Popularity<b>",
   x:.5
 }
+
 }
 init();
 
