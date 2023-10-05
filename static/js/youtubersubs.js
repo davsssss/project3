@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Parse through the CSV file for our Youtuber data and Subscriber counts
-    parse('./../SQL/clean_data/pfc_data.csv', {
+    Papa.parse('./../SQL/clean_data/pfc_data.csv', {
         header: true,
         download: true,
         skipEmptyLines: true,
