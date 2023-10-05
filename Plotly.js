@@ -7,29 +7,20 @@ function init() {
   let pieChartData = [{
     values:  Object.values(pieData["Argentina"]),
     labels: Object.keys(pieData["Argentina"]),
-    type: "pie"
+    type: "pie",
+    textinfo: 'label+value'
   }];
-
-  let pieChartLayout = {
-    height: 600,
-    width: 800
-  };
-
   Plotly.newPlot("pie", pieChartData, pieChartLayout);
-
-    let initialBarData = barData.filter(initialBar);
-    let barChartData = [{
-      x:initialBarData.map(row=>row.Youtuber),
-      y: initialBarData.map(row=>row.Subscribers),
-      type: "bar"
-    }];
-  
-    let barChartLayout = {
-      height: 600,
-      width: 800
-    }
-  
-    Plotly.newPlot("bar", barChartData, barChartLayout);
+    
+  let initialBarData = barData.filter(initialBar);
+  let barChartData = [{
+    x:initialBarData.map(row=>row.Youtuber),
+    y: initialBarData.map(row=>row.Subscribers),
+    type: "bar",
+    marker: {
+      size:10}
+  }];
+  Plotly.newPlot("bar", barChartData, barChartLayout);
 }
 
 // On change to the DOM, call getData()
@@ -43,7 +34,6 @@ function getData() {
   let dataset = dropdownMenu.property("value");
 
   // Initialize an empty array for the country's data
- console.log(dataset)
   let updatedPieData =  Object.values(pieData[dataset]);
   let updatedPieLabels =  Object.keys(pieData[dataset]);
   
@@ -54,15 +44,13 @@ function getData() {
   let updatedBarChartData = [{
     x:updatedBarData.map(row=>row.Youtuber),
     y: updatedBarData.map(row=>row.Subscribers),
-    type: "bar"
+    type: "bar",
+    width:.7,
+    marker: {
+      hovertemplate: '<b>%{x}</b><br>Subscribers: %{y}', // Customize hover template
+    },
   }];
-
-  let layout2 = {
-    height: 600,
-    width: 800
-  }
-
-  Plotly.newPlot("bar", updatedBarChartData, layout2);
+  Plotly.newPlot("bar", updatedBarChartData, barChartLayout);
 
 // Call function to update the chart
   updatePiePlotly(updatedPieData,updatedPieLabels);
@@ -72,9 +60,52 @@ function getData() {
 function updatePiePlotly(updatedPieData,updatedPieLabels) {
 var update = {
     values: [updatedPieData],
-    labels: [updatedPieLabels]
+    labels: [updatedPieLabels],
+    textinfo: 'label+value'
     };
     Plotly.update("pie",update);
 }
 
+let pieChartLayout = {
+  height: 500,
+  width: 1500,
+  margin: {
+    l: 550,
+    },
+  title: {
+    text:"<b>Channel Content Distribution<b>",
+    x:.72
+  }
+};
+
+let barChartLayout = {
+  height: 1000,
+  width: 1920,
+  xaxis: {
+    tickfont: {
+      size: 15, 
+      tickangle: 90,
+    },
+  },
+yaxis: {
+title: "<b>Subscriber Count<b>",
+titlefont: {
+  size: 15,
+  tickangle: 90,
+
+},
+tickfont: {
+  size: 15, 
+},
+},
+margin: {
+l: 150,
+b: 500
+},
+title: {
+  text:"<b>Channel Popularity<b>",
+  x:.5
+}
+}
 init();
+
