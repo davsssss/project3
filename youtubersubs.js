@@ -1,3 +1,4 @@
+// Initialize chart.
 document.addEventListener('DOMContentLoaded', function() {
     var ctx = document.getElementById('youtubeChart').getContext('2d');
     var myChart;
@@ -9,6 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
             myChart.destroy(); // Destroy existing chart if it exists
         }
 
+        // Create new chart
         myChart = new Chart(ctx, {
             type: 'bar',
             data: {
@@ -30,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     }
-
+    // Create filter and dropdown based on Country of Youtuber
     function filterData(country) {
         if (country === 'All') {
             return originalData; // Return the original data if 'All' is selected
@@ -41,6 +43,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
+    // Parse through the CSV file for our Youtuber data and Subscriber counts
     Papa.parse('pfc_data.csv', {
         header: true,
         download: true,
