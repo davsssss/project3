@@ -1,7 +1,7 @@
 var barData = [
     {
         "Country": "India",
-        "Youtuber": "T-Series",
+        "Youtuber": "TSeries",
         "Subscribers": 245000000,
         "Category": "Music"
     },
@@ -9,7 +9,7 @@ var barData = [
         "Country": "United States",
         "Youtuber": "YouTube Movies",
         "Subscribers": 170000000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "United States",
@@ -19,7 +19,7 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "Cocomelon - Nursery Rhymes",
+        "Youtuber": "Cocomelon  Nursery Rhymes",
         "Subscribers": 162000000,
         "Category": "Education"
     },
@@ -31,9 +31,9 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "\u00fd\u00fd\u00fd Kids Diana Show",
+        "Youtuber": " Kids Diana Show",
         "Subscribers": 112000000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Japan",
@@ -45,7 +45,7 @@ var barData = [
         "Country": "Russia",
         "Youtuber": "Like Nastya",
         "Subscribers": 106000000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -69,7 +69,7 @@ var barData = [
         "Country": "South Korea",
         "Youtuber": "BLACKPINK",
         "Subscribers": 89800000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
@@ -79,9 +79,9 @@ var barData = [
     },
     {
         "Country": "United Kingdom",
-        "Youtuber": "5-Minute Crafts",
+        "Youtuber": "5Minute Crafts",
         "Subscribers": 80100000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "South Korea",
@@ -109,7 +109,7 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "Pinkfong Baby Shark - Kids' Songs & Stories",
+        "Youtuber": "Pinkfong Baby Shark  Kids Songs  Stories",
         "Subscribers": 68200000,
         "Category": "Education"
     },
@@ -121,7 +121,7 @@ var barData = [
     },
     {
         "Country": "India",
-        "Youtuber": "ChuChu TV Nursery Rhymes & Kids Songs",
+        "Youtuber": "ChuChu TV Nursery Rhymes  Kids Songs",
         "Subscribers": 65900000,
         "Category": "Education"
     },
@@ -139,7 +139,7 @@ var barData = [
     },
     {
         "Country": "India",
-        "Youtuber": "T-Series Bhakti Sagar",
+        "Youtuber": "TSeries Bhakti Sagar",
         "Subscribers": 61000000,
         "Category": "Music"
     },
@@ -153,7 +153,7 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Movieclips",
         "Subscribers": 59500000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "India",
@@ -177,7 +177,7 @@ var barData = [
         "Country": "India",
         "Youtuber": "Aaj Tak",
         "Subscribers": 57600000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "India",
@@ -201,7 +201,7 @@ var barData = [
         "Country": "India",
         "Youtuber": "YRF",
         "Subscribers": 54600000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "United Kingdom",
@@ -211,7 +211,7 @@ var barData = [
     },
     {
         "Country": "India",
-        "Youtuber": "Infobells - Hindi",
+        "Youtuber": "Infobells  Hindi",
         "Subscribers": 53300000,
         "Category": "Education"
     },
@@ -229,7 +229,7 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "BillionSurpriseToys  - Nursery Rhymes & Cartoons",
+        "Youtuber": "BillionSurpriseToys   Nursery Rhymes  Cartoons",
         "Subscribers": 52200000,
         "Category": "Education"
     },
@@ -289,7 +289,7 @@ var barData = [
     },
     {
         "Country": "Brazil",
-        "Youtuber": "Voc\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "Voc",
         "Subscribers": 44700000,
         "Category": "Entertainment"
     },
@@ -313,9 +313,9 @@ var barData = [
     },
     {
         "Country": "Philippines",
-        "Youtuber": "ABS-CBN Entertainment",
+        "Youtuber": "ABSCBN Entertainment",
         "Subscribers": 44200000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Thailand",
@@ -327,13 +327,7 @@ var barData = [
         "Country": "Colombia",
         "Youtuber": "Shakira",
         "Subscribers": 43500000,
-        "Category": "People & Blogs"
-    },
-    {
-        "Country": "Russia",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd \u00fd\u00fd \u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd",
-        "Subscribers": 43200000,
-        "Category": "Film & Animation"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Pakistan",
@@ -375,19 +369,19 @@ var barData = [
         "Country": "Mexico",
         "Youtuber": "Kimberly Loaiza",
         "Subscribers": 41300000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
-        "Youtuber": "Little Baby Bum - Nursery Rhymes & Kids Songs",
+        "Youtuber": "Little Baby Bum  Nursery Rhymes  Kids Songs",
         "Subscribers": 40900000,
         "Category": "Education"
     },
     {
         "Country": "United Arab Emirates",
-        "Youtuber": "shfa2 - \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "shfa2  ",
         "Subscribers": 39700000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
@@ -403,7 +397,7 @@ var barData = [
     },
     {
         "Country": "Canada",
-        "Youtuber": "Super Simple Songs - Kids Songs",
+        "Youtuber": "Super Simple Songs  Kids Songs",
         "Subscribers": 39200000,
         "Category": "Education"
     },
@@ -429,13 +423,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "TEDx Talks",
         "Subscribers": 38600000,
-        "Category": "Nonprofits & Activism"
+        "Category": "Nonprofits  Activism"
     },
     {
         "Country": "Saudi Arabia",
         "Youtuber": "shfa",
         "Subscribers": 38400000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
@@ -475,7 +469,7 @@ var barData = [
     },
     {
         "Country": "Thailand",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd one31",
+        "Youtuber": " one31",
         "Subscribers": 37500000,
         "Category": "Entertainment"
     },
@@ -489,13 +483,13 @@ var barData = [
         "Country": "India",
         "Youtuber": "ABP NEWS",
         "Subscribers": 37000000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Brazil",
-        "Youtuber": "Maria Clara & JP",
+        "Youtuber": "Maria Clara  JP",
         "Subscribers": 37000000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -519,11 +513,11 @@ var barData = [
         "Country": "United States",
         "Youtuber": "YouTube",
         "Subscribers": 36300000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "Argentina",
-        "Youtuber": "La Granja de Zen\u00ef\u00bf\u00bd",
+        "Youtuber": "La Granja de Zen",
         "Subscribers": 35700000,
         "Category": "Music"
     },
@@ -537,11 +531,11 @@ var barData = [
         "Country": "India",
         "Youtuber": "IndiaTV",
         "Subscribers": 35500000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "India",
-        "Youtuber": "T-Series Bollywood Classics",
+        "Youtuber": "TSeries Bollywood Classics",
         "Subscribers": 35400000,
         "Category": "Music"
     },
@@ -553,13 +547,13 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "Ryan's World",
+        "Youtuber": "Ryans World",
         "Subscribers": 35200000,
         "Category": "Entertainment"
     },
     {
         "Country": "United States",
-        "Youtuber": "Genevieve's Playhouse - Learning Videos for Kids",
+        "Youtuber": "Genevieves Playhouse  Learning Videos for Kids",
         "Subscribers": 34900000,
         "Category": "Education"
     },
@@ -585,7 +579,7 @@ var barData = [
         "Country": "India",
         "Youtuber": "Jingle Toons",
         "Subscribers": 34000000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "Spain",
@@ -597,7 +591,7 @@ var barData = [
         "Country": "Brazil",
         "Youtuber": "Galinha Pintadinha",
         "Subscribers": 33800000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "United States",
@@ -609,7 +603,7 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Selena Gomez",
         "Subscribers": 33600000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "India",
@@ -637,7 +631,7 @@ var barData = [
     },
     {
         "Country": "India",
-        "Youtuber": "CVS 3D Rhymes & Kids Songs",
+        "Youtuber": "CVS 3D Rhymes  Kids Songs",
         "Subscribers": 33400000,
         "Category": "Education"
     },
@@ -645,11 +639,11 @@ var barData = [
         "Country": "Indonesia",
         "Youtuber": "Ricis Official",
         "Subscribers": 33300000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
-        "Youtuber": "BabyBus - Kids Songs and Cartoons",
+        "Youtuber": "BabyBus  Kids Songs and Cartoons",
         "Subscribers": 32800000,
         "Category": "Education"
     },
@@ -705,13 +699,13 @@ var barData = [
         "Country": "Mexico",
         "Youtuber": "GENIAL",
         "Subscribers": 31800000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "India",
-        "Youtuber": "MR. INDIAN HACKER",
+        "Youtuber": "MR INDIAN HACKER",
         "Subscribers": 31700000,
-        "Category": "Science & Technology"
+        "Category": "Science  Technology"
     },
     {
         "Country": "India",
@@ -721,7 +715,7 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "DONA \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "DONA ",
         "Subscribers": 31700000,
         "Category": "Entertainment"
     },
@@ -745,15 +739,15 @@ var barData = [
     },
     {
         "Country": "United Kingdom",
-        "Youtuber": "Peppa Pig - Official Channel",
+        "Youtuber": "Peppa Pig  Official Channel",
         "Subscribers": 31400000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "Venezuela",
         "Youtuber": "YOLO AVENTURAS",
         "Subscribers": 31200000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -783,7 +777,7 @@ var barData = [
         "Country": "India",
         "Youtuber": "Zee News",
         "Subscribers": 30500000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "Kuwait",
@@ -805,7 +799,7 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "Boram Tube Vlog [\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf",
+        "Youtuber": "Boram Tube Vlog ",
         "Subscribers": 30300000,
         "Category": "Entertainment"
     },
@@ -817,19 +811,19 @@ var barData = [
     },
     {
         "Country": "Jordan",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd \u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd \u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd | toyoraljanahtv",
+        "Youtuber": "    toyoraljanahtv",
         "Subscribers": 30200000,
         "Category": "Entertainment"
     },
     {
         "Country": "Netherlands",
-        "Youtuber": "Spinnin' Records",
+        "Youtuber": "Spinnin Records",
         "Subscribers": 30100000,
         "Category": "Music"
     },
     {
         "Country": "United States",
-        "Youtuber": "Little Angel: Nursery Rhymes & Kids Songs",
+        "Youtuber": "Little Angel Nursery Rhymes  Kids Songs",
         "Subscribers": 30100000,
         "Category": "Education"
     },
@@ -877,7 +871,7 @@ var barData = [
     },
     {
         "Country": "India",
-        "Youtuber": "infobells - Tamil",
+        "Youtuber": "infobells  Tamil",
         "Subscribers": 28900000,
         "Category": "Education"
     },
@@ -895,7 +889,7 @@ var barData = [
     },
     {
         "Country": "India",
-        "Youtuber": "infobells - Telugu",
+        "Youtuber": "infobells  Telugu",
         "Subscribers": 28300000,
         "Category": "Education"
     },
@@ -919,7 +913,7 @@ var barData = [
     },
     {
         "Country": "Australia",
-        "Youtuber": "Bounce Patrol - Kids Songs",
+        "Youtuber": "Bounce Patrol  Kids Songs",
         "Subscribers": 27800000,
         "Category": "Music"
     },
@@ -933,7 +927,7 @@ var barData = [
         "Country": "United States",
         "Youtuber": "MrBeast 2",
         "Subscribers": 27500000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -949,9 +943,9 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "\u00fd\u00fd\u00fd Kids Roma Show",
+        "Youtuber": " Kids Roma Show",
         "Subscribers": 27400000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United Kingdom",
@@ -961,9 +955,9 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "Nick Jr.",
+        "Youtuber": "Nick Jr",
         "Subscribers": 27300000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "India",
@@ -993,7 +987,7 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Beast Reacts",
         "Subscribers": 26700000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Colombia",
@@ -1011,7 +1005,7 @@ var barData = [
         "Country": "Philippines",
         "Youtuber": "Raffy Tulfo in Action",
         "Subscribers": 26500000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "United States",
@@ -1023,7 +1017,7 @@ var barData = [
         "Country": "India",
         "Youtuber": "Goldmines Bollywood",
         "Subscribers": 26400000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "United States",
@@ -1045,7 +1039,7 @@ var barData = [
     },
     {
         "Country": "Japan",
-        "Youtuber": "Junya.\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "Junya",
         "Subscribers": 26200000,
         "Category": "Entertainment"
     },
@@ -1057,7 +1051,7 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "Beyonc\u00ef\u00bf",
+        "Youtuber": "Beyonc",
         "Subscribers": 26000000,
         "Category": "Music"
     },
@@ -1083,7 +1077,7 @@ var barData = [
         "Country": "Mexico",
         "Youtuber": "LosPolinesios",
         "Subscribers": 25700000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -1107,7 +1101,7 @@ var barData = [
         "Country": "Indonesia",
         "Youtuber": "Rans Entertainment",
         "Subscribers": 25400000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -1125,13 +1119,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "WB Kids",
         "Subscribers": 25200000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
         "Youtuber": "The Lallantop",
         "Subscribers": 25200000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "United States",
@@ -1141,7 +1135,7 @@ var barData = [
     },
     {
         "Country": "Canada",
-        "Youtuber": "WatchMojo.com",
+        "Youtuber": "WatchMojocom",
         "Subscribers": 25100000,
         "Category": "Music"
     },
@@ -1167,11 +1161,11 @@ var barData = [
         "Country": "Mexico",
         "Youtuber": "Yuya",
         "Subscribers": 24800000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "United States",
-        "Youtuber": "America's Got Talent",
+        "Youtuber": "Americas Got Talent",
         "Subscribers": 24800000,
         "Category": "Entertainment"
     },
@@ -1185,7 +1179,7 @@ var barData = [
         "Country": "Australia",
         "Youtuber": "Chloe Ting",
         "Subscribers": 24700000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "United States",
@@ -1197,11 +1191,11 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Mark Rober",
         "Subscribers": 24600000,
-        "Category": "Science & Technology"
+        "Category": "Science  Technology"
     },
     {
         "Country": "South Korea",
-        "Youtuber": "1theK (\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef",
+        "Youtuber": "1theK ",
         "Subscribers": 24500000,
         "Category": "Music"
     },
@@ -1215,11 +1209,11 @@ var barData = [
         "Country": "India",
         "Youtuber": "Pen Movies",
         "Subscribers": 24300000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "Mexico",
-        "Youtuber": "MrBeast en Espa\u00ef\u00bf\u00bd\u00ef",
+        "Youtuber": "MrBeast en Espa",
         "Subscribers": 24200000,
         "Category": "Entertainment"
     },
@@ -1231,7 +1225,7 @@ var barData = [
     },
     {
         "Country": "Turkey",
-        "Youtuber": "netd m\u00ef\u00bf\u00bd\u00ef\u00bf",
+        "Youtuber": "netd m",
         "Subscribers": 24100000,
         "Category": "Music"
     },
@@ -1275,13 +1269,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Diana and Roma EN",
         "Subscribers": 23900000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
         "Youtuber": "Troom Troom",
         "Subscribers": 23800000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "United States",
@@ -1299,13 +1293,13 @@ var barData = [
         "Country": "United Kingdom",
         "Youtuber": "Mister Max",
         "Subscribers": 23700000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
         "Youtuber": "That Little Puff",
         "Subscribers": 23700000,
-        "Category": "Pets & Animals"
+        "Category": "Pets  Animals"
     },
     {
         "Country": "Mexico",
@@ -1327,9 +1321,9 @@ var barData = [
     },
     {
         "Country": "United Kingdom",
-        "Youtuber": "Peppa Pig Espa\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "Peppa Pig Espa",
         "Subscribers": 23600000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "United Kingdom",
@@ -1341,19 +1335,19 @@ var barData = [
         "Country": "United Kingdom",
         "Youtuber": "Miss Katy",
         "Subscribers": 23500000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
         "Youtuber": "Tilak",
         "Subscribers": 23400000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "Brazil",
         "Youtuber": "Valentina Pontes ofc",
         "Subscribers": 23400000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "United States",
@@ -1365,13 +1359,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Happy Lives",
         "Subscribers": 23200000,
-        "Category": "Science & Technology"
+        "Category": "Science  Technology"
     },
     {
         "Country": "United States",
         "Youtuber": "Lady Gaga",
         "Subscribers": 23200000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
@@ -1389,7 +1383,7 @@ var barData = [
         "Country": "United States",
         "Youtuber": "TED",
         "Subscribers": 23100000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
@@ -1399,7 +1393,7 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "Kids TV - Nursery Rhymes And Baby Songs",
+        "Youtuber": "Kids TV  Nursery Rhymes And Baby Songs",
         "Subscribers": 23100000,
         "Category": "Shows"
     },
@@ -1413,7 +1407,7 @@ var barData = [
         "Country": "India",
         "Youtuber": "Technical Guruji",
         "Subscribers": 23000000,
-        "Category": "Science & Technology"
+        "Category": "Science  Technology"
     },
     {
         "Country": "Argentina",
@@ -1441,7 +1435,7 @@ var barData = [
     },
     {
         "Country": "Mexico",
-        "Youtuber": "BabyBus - Canciones Infantiles & Videos para Ni\u00ef\u00bf\u00bd\u00ef",
+        "Youtuber": "BabyBus  Canciones Infantiles  Videos para Ni",
         "Subscribers": 22900000,
         "Category": "Education"
     },
@@ -1449,13 +1443,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Vania Mania Kids",
         "Subscribers": 22700000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
         "Youtuber": "Sun TV",
         "Subscribers": 22600000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
@@ -1473,7 +1467,7 @@ var barData = [
         "Country": "Saudi Arabia",
         "Youtuber": "mmoshaya",
         "Subscribers": 22600000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -1485,13 +1479,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "LeoNata Family",
         "Subscribers": 22600000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
         "Youtuber": "Goldmines Cineplex",
         "Subscribers": 22500000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "United States",
@@ -1509,7 +1503,7 @@ var barData = [
         "Country": "France",
         "Youtuber": "Smile Family",
         "Subscribers": 22300000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -1519,7 +1513,7 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "Kinder Spielzeug Kanal (Kidibli)",
+        "Youtuber": "Kinder Spielzeug Kanal Kidibli",
         "Subscribers": 22200000,
         "Category": "Entertainment"
     },
@@ -1531,7 +1525,7 @@ var barData = [
     },
     {
         "Country": "Japan",
-        "Youtuber": "Sagawa /\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "Sagawa ",
         "Subscribers": 22000000,
         "Category": "Entertainment"
     },
@@ -1539,13 +1533,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Ben Azelart",
         "Subscribers": 21900000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "United States",
         "Youtuber": "Zach Choi ASMR",
         "Subscribers": 21900000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -1555,7 +1549,7 @@ var barData = [
     },
     {
         "Country": "Mexico",
-        "Youtuber": "Disney Latinoam\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "Disney Latinoam",
         "Subscribers": 21900000,
         "Category": "Entertainment"
     },
@@ -1563,13 +1557,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Stokes Twins",
         "Subscribers": 21800000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
         "Youtuber": "National Geographic",
         "Subscribers": 21800000,
-        "Category": "Science & Technology"
+        "Category": "Science  Technology"
     },
     {
         "Country": "United Kingdom",
@@ -1587,13 +1581,13 @@ var barData = [
         "Country": "Brazil",
         "Youtuber": "DUDU e CAROL",
         "Subscribers": 21600000,
-        "Category": "Autos & Vehicles"
+        "Category": "Autos  Vehicles"
     },
     {
         "Country": "India",
         "Youtuber": "Village Cooking Channel",
         "Subscribers": 21600000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "United States",
@@ -1605,13 +1599,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Tekashi 6ix9ine",
         "Subscribers": 21500000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Mexico",
         "Youtuber": "Tlnovelas",
         "Subscribers": 21500000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "Chile",
@@ -1629,7 +1623,7 @@ var barData = [
         "Country": "United States",
         "Youtuber": "The Royalty Family",
         "Subscribers": 21300000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -1641,7 +1635,7 @@ var barData = [
         "Country": "India",
         "Youtuber": "Ishaan Ali 11",
         "Subscribers": 21300000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -1671,13 +1665,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Tasty",
         "Subscribers": 21100000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "Indonesia",
         "Youtuber": "Baim Paula",
         "Subscribers": 21100000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -1687,7 +1681,7 @@ var barData = [
     },
     {
         "Country": "Brazil",
-        "Youtuber": "Rafa & Luiz",
+        "Youtuber": "Rafa  Luiz",
         "Subscribers": 21000000,
         "Category": "Entertainment"
     },
@@ -1699,7 +1693,7 @@ var barData = [
     },
     {
         "Country": "India",
-        "Youtuber": "Dr. Vivek Bindra: Motivational Speaker",
+        "Youtuber": "Dr Vivek Bindra Motivational Speaker",
         "Subscribers": 20900000,
         "Category": "Education"
     },
@@ -1713,13 +1707,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Brave Wilderness",
         "Subscribers": 20900000,
-        "Category": "Pets & Animals"
+        "Category": "Pets  Animals"
     },
     {
         "Country": "United States",
         "Youtuber": "LIV Crime",
         "Subscribers": 20900000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -1735,7 +1729,7 @@ var barData = [
     },
     {
         "Country": "Germany",
-        "Youtuber": "Kurzgesagt \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf",
+        "Youtuber": "Kurzgesagt ",
         "Subscribers": 20800000,
         "Category": "Education"
     },
@@ -1747,15 +1741,15 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "5-Minute Crafts DIY",
+        "Youtuber": "5Minute Crafts DIY",
         "Subscribers": 20700000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "Russia",
         "Youtuber": "tuzelity SHUFFLE",
         "Subscribers": 20700000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -1783,7 +1777,7 @@ var barData = [
     },
     {
         "Country": "South Korea",
-        "Youtuber": "Mnet K-POP",
+        "Youtuber": "Mnet KPOP",
         "Subscribers": 20500000,
         "Category": "Entertainment"
     },
@@ -1801,15 +1795,15 @@ var barData = [
     },
     {
         "Country": "Brazil",
-        "Youtuber": "Totoy kids - Portugu\u00ef\u00bf\u00bd",
+        "Youtuber": "Totoy kids  Portugu",
         "Subscribers": 20400000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "United States",
         "Youtuber": "Jake Paul",
         "Subscribers": 20400000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
@@ -1837,7 +1831,7 @@ var barData = [
     },
     {
         "Country": "Indonesia",
-        "Youtuber": "BabyBus - Cerita & Lagu Anak-anak",
+        "Youtuber": "BabyBus  Cerita  Lagu Anakanak",
         "Subscribers": 20300000,
         "Category": "Education"
     },
@@ -1855,7 +1849,7 @@ var barData = [
     },
     {
         "Country": "India",
-        "Youtuber": "Kiddiestv Hindi - Nursery Rhymes & Kids Songs",
+        "Youtuber": "Kiddiestv Hindi  Nursery Rhymes  Kids Songs",
         "Subscribers": 20200000,
         "Category": "Education"
     },
@@ -1899,7 +1893,7 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Pencilmation",
         "Subscribers": 20100000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "United States",
@@ -1909,9 +1903,9 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "5-Minute Crafts PLAY",
+        "Youtuber": "5Minute Crafts PLAY",
         "Subscribers": 20100000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "United States",
@@ -1923,7 +1917,7 @@ var barData = [
         "Country": "United States",
         "Youtuber": "BuzzFeedVideo",
         "Subscribers": 20100000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -1945,9 +1939,9 @@ var barData = [
     },
     {
         "Country": "India",
-        "Youtuber": "Green Gold TV - Official Channel",
+        "Youtuber": "Green Gold TV  Official Channel",
         "Subscribers": 20000000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "Brazil",
@@ -1959,19 +1953,19 @@ var barData = [
         "Country": "Germany",
         "Youtuber": "HaerteTest",
         "Subscribers": 19800000,
-        "Category": "Science & Technology"
+        "Category": "Science  Technology"
     },
     {
         "Country": "United States",
         "Youtuber": "Crafty Panda",
         "Subscribers": 19800000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
         "Youtuber": "SOMOY TV",
         "Subscribers": 19800000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "United States",
@@ -1981,7 +1975,7 @@ var barData = [
     },
     {
         "Country": "United Kingdom",
-        "Youtuber": "Britain's Got Talent",
+        "Youtuber": "Britains Got Talent",
         "Subscribers": 19700000,
         "Category": "Entertainment"
     },
@@ -2011,9 +2005,9 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "DaFuq!?Boom!",
+        "Youtuber": "DaFuqBoom",
         "Subscribers": 19600000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "United States",
@@ -2031,13 +2025,13 @@ var barData = [
         "Country": "India",
         "Youtuber": "DLS News",
         "Subscribers": 19400000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "Mexico",
         "Youtuber": "JukiLop",
         "Subscribers": 19400000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
@@ -2055,7 +2049,7 @@ var barData = [
         "Country": "United States",
         "Youtuber": "shane",
         "Subscribers": 19200000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
@@ -2076,28 +2070,22 @@ var barData = [
         "Category": "Comedy"
     },
     {
-        "Country": "United States",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd \u00fd\u00fd\u00fd\u00fd",
-        "Subscribers": 19000000,
-        "Category": "Education"
-    },
-    {
         "Country": "Mexico",
         "Youtuber": "SUPER SLICK SLIME SAM",
         "Subscribers": 19000000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "India",
         "Youtuber": "Wow Kidz Action",
         "Subscribers": 19000000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "Brazil",
-        "Youtuber": "Turma da M\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "Turma da M",
         "Subscribers": 19000000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "United Kingdom",
@@ -2115,17 +2103,17 @@ var barData = [
         "Country": "Russia",
         "Youtuber": "HiMan",
         "Subscribers": 18900000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Mexico",
-        "Youtuber": "Little Angel Espa\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "Little Angel Espa",
         "Subscribers": 18900000,
         "Category": "Education"
     },
     {
         "Country": "United States",
-        "Youtuber": "TED-Ed",
+        "Youtuber": "TEDEd",
         "Subscribers": 18800000,
         "Category": "Education"
     },
@@ -2140,12 +2128,6 @@ var barData = [
         "Youtuber": "Farruko",
         "Subscribers": 18800000,
         "Category": "Music"
-    },
-    {
-        "Country": "Ukraine",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd",
-        "Subscribers": 18800000,
-        "Category": "Entertainment"
     },
     {
         "Country": "India",
@@ -2173,13 +2155,13 @@ var barData = [
     },
     {
         "Country": "Saudi Arabia",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd \u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd \u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd | Arab Games Network",
+        "Youtuber": "    Arab Games Network",
         "Subscribers": 18600000,
         "Category": "Gaming"
     },
     {
         "Country": "Brazil",
-        "Youtuber": "Dan-Sa / Daniel Saboya",
+        "Youtuber": "DanSa  Daniel Saboya",
         "Subscribers": 18500000,
         "Category": "Music"
     },
@@ -2193,13 +2175,13 @@ var barData = [
         "Country": "Russia",
         "Youtuber": "Like Nastya Vlog",
         "Subscribers": 18500000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Indonesia",
         "Youtuber": "Willie Salim",
         "Subscribers": 18500000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -2215,7 +2197,7 @@ var barData = [
     },
     {
         "Country": "Thailand",
-        "Youtuber": "RsiamMusic : \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "RsiamMusic  ",
         "Subscribers": 18400000,
         "Category": "Music"
     },
@@ -2227,9 +2209,9 @@ var barData = [
     },
     {
         "Country": "Indonesia",
-        "Youtuber": "Naisa Alifia Yuriza (N.A.Y)",
+        "Youtuber": "Naisa Alifia Yuriza NAY",
         "Subscribers": 18300000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -2245,9 +2227,9 @@ var barData = [
     },
     {
         "Country": "Brazil",
-        "Youtuber": "INCR\u00ef\u00bf\u00bd\u00ef\u00bf",
+        "Youtuber": "INCR",
         "Subscribers": 18200000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -2269,7 +2251,7 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "Blippi - Educational Videos for Kids",
+        "Youtuber": "Blippi  Educational Videos for Kids",
         "Subscribers": 18100000,
         "Category": "Education"
     },
@@ -2283,7 +2265,7 @@ var barData = [
         "Country": "Brazil",
         "Youtuber": "Manual do Mundo",
         "Subscribers": 18000000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "Australia",
@@ -2299,9 +2281,9 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "Sebasti\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "Sebasti",
         "Subscribers": 18000000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "United States",
@@ -2319,13 +2301,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "David Dobrik",
         "Subscribers": 17900000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
         "Youtuber": "KatieAngel",
         "Subscribers": 17900000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Argentina",
@@ -2367,13 +2349,13 @@ var barData = [
         "Country": "India",
         "Youtuber": "Priyal Kukreja",
         "Subscribers": 17800000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
         "Youtuber": "MSA previously My Story Animated",
         "Subscribers": 17800000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "United States",
@@ -2385,13 +2367,13 @@ var barData = [
         "Country": "India",
         "Youtuber": "jaanvi patel",
         "Subscribers": 17700000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Indonesia",
         "Youtuber": "tanboy kun",
         "Subscribers": 17700000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Brazil",
@@ -2403,23 +2385,23 @@ var barData = [
         "Country": "Ukraine",
         "Youtuber": "News 24",
         "Subscribers": 17700000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "Malaysia",
-        "Youtuber": "Les' Copaque Production",
+        "Youtuber": "Les Copaque Production",
         "Subscribers": 17700000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "Argentina",
         "Youtuber": "El Payaso Plim Plim",
         "Subscribers": 17700000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "Thailand",
-        "Youtuber": "zbing z.",
+        "Youtuber": "zbing z",
         "Subscribers": 17600000,
         "Category": "Gaming"
     },
@@ -2431,9 +2413,9 @@ var barData = [
     },
     {
         "Country": "China",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd Liziqi",
+        "Youtuber": " Liziqi",
         "Subscribers": 17600000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "Chile",
@@ -2457,11 +2439,11 @@ var barData = [
         "Country": "India",
         "Youtuber": "News18 India",
         "Subscribers": 17500000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "India",
-        "Youtuber": "Fun For Kids TV - Hindi Rhymes",
+        "Youtuber": "Fun For Kids TV  Hindi Rhymes",
         "Subscribers": 17500000,
         "Category": "Entertainment"
     },
@@ -2479,13 +2461,13 @@ var barData = [
     },
     {
         "Country": "Thailand",
-        "Youtuber": "AMARINTV : \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "AMARINTV  ",
         "Subscribers": 17400000,
         "Category": "Entertainment"
     },
     {
         "Country": "Iraq",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd - Al-Remas",
+        "Youtuber": "  AlRemas",
         "Subscribers": 17400000,
         "Category": "Music"
     },
@@ -2493,13 +2475,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Apple",
         "Subscribers": 17300000,
-        "Category": "Science & Technology"
+        "Category": "Science  Technology"
     },
     {
         "Country": "India",
         "Youtuber": "Stubborn Facts",
         "Subscribers": 17300000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "India",
@@ -2511,13 +2493,13 @@ var barData = [
         "Country": "Australia",
         "Youtuber": "HowToBasic",
         "Subscribers": 17300000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "United States",
         "Youtuber": "Marques Brownlee",
         "Subscribers": 17200000,
-        "Category": "Science & Technology"
+        "Category": "Science  Technology"
     },
     {
         "Country": "Brazil",
@@ -2613,13 +2595,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Danny Fitt",
         "Subscribers": 16900000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Brazil",
         "Youtuber": "Bispo Bruno Leonardo",
         "Subscribers": 16900000,
-        "Category": "Nonprofits & Activism"
+        "Category": "Nonprofits  Activism"
     },
     {
         "Country": "Indonesia",
@@ -2629,9 +2611,9 @@ var barData = [
     },
     {
         "Country": "Brazil",
-        "Youtuber": "Gato Galactico | GAL\u00ef\u00bf\u00bd\u00ef\u00bf",
+        "Youtuber": "Gato Galactico  GAL",
         "Subscribers": 16800000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "United States",
@@ -2641,7 +2623,7 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "With Kids[\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef",
+        "Youtuber": "With Kids",
         "Subscribers": 16700000,
         "Category": "Entertainment"
     },
@@ -2655,13 +2637,13 @@ var barData = [
         "Country": "Mexico",
         "Youtuber": "Tu COSMOPOLIS",
         "Subscribers": 16700000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
         "Youtuber": "NMF News",
         "Subscribers": 16600000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "India",
@@ -2671,7 +2653,7 @@ var barData = [
     },
     {
         "Country": "India",
-        "Youtuber": "Lahari Music - TSeries",
+        "Youtuber": "Lahari Music  TSeries",
         "Subscribers": 16600000,
         "Category": "Music"
     },
@@ -2689,12 +2671,6 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd \u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd",
-        "Subscribers": 16500000,
-        "Category": "Entertainment"
-    },
-    {
-        "Country": "United States",
         "Youtuber": "FailArmy",
         "Subscribers": 16500000,
         "Category": "Comedy"
@@ -2703,7 +2679,7 @@ var barData = [
         "Country": "India",
         "Youtuber": "BBC News Hindi",
         "Subscribers": 16500000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "United States",
@@ -2715,7 +2691,7 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Sandra Cires Art",
         "Subscribers": 16400000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "Thailand",
@@ -2725,7 +2701,7 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "UFC - Ultimate Fighting Championship",
+        "Youtuber": "UFC  Ultimate Fighting Championship",
         "Subscribers": 16400000,
         "Category": "Sports"
     },
@@ -2737,7 +2713,7 @@ var barData = [
     },
     {
         "Country": "Thailand",
-        "Youtuber": "GMMTV OFFICIAL\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "GMMTV OFFICIAL",
         "Subscribers": 16400000,
         "Category": "Entertainment"
     },
@@ -2829,7 +2805,7 @@ var barData = [
         "Country": "Thailand",
         "Youtuber": "Thairath Online",
         "Subscribers": 16200000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "Singapore",
@@ -2841,7 +2817,7 @@ var barData = [
         "Country": "United States",
         "Youtuber": "XO TEAM",
         "Subscribers": 16200000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Spain",
@@ -2859,7 +2835,7 @@ var barData = [
         "Country": "Brazil",
         "Youtuber": "Canal IN",
         "Subscribers": 16100000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -2893,9 +2869,9 @@ var barData = [
     },
     {
         "Country": "Mexico",
-        "Youtuber": "Totoy kids - Espa\u00ef\u00bf\u00bd\u00ef",
+        "Youtuber": "Totoy kids  Espa",
         "Subscribers": 16000000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "United States",
@@ -2907,7 +2883,7 @@ var barData = [
         "Country": "United States",
         "Youtuber": "jeffreestar",
         "Subscribers": 15900000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "Argentina",
@@ -2943,29 +2919,29 @@ var barData = [
         "Country": "India",
         "Youtuber": "Narendra Modi",
         "Subscribers": 15800000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "Indonesia",
         "Youtuber": "Arif muhammad",
         "Subscribers": 15800000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
         "Youtuber": "Rotten Tomatoes Trailers",
         "Subscribers": 15800000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "India",
         "Youtuber": "Volga Video",
         "Subscribers": 15700000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "India",
-        "Youtuber": "DM - Desi Melodies",
+        "Youtuber": "DM  Desi Melodies",
         "Subscribers": 15700000,
         "Category": "Music"
     },
@@ -2997,7 +2973,7 @@ var barData = [
         "Country": "Canada",
         "Youtuber": "Linus Tech Tips",
         "Subscribers": 15600000,
-        "Category": "Science & Technology"
+        "Category": "Science  Technology"
     },
     {
         "Country": "Brazil",
@@ -3007,15 +2983,15 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "5-Minute Crafts FAMILY",
+        "Youtuber": "5Minute Crafts FAMILY",
         "Subscribers": 15600000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Mexico",
-        "Youtuber": "Blippi Espa\u00ef\u00bf\u00bd\u00ef",
+        "Youtuber": "Blippi Espa",
         "Subscribers": 15500000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Saudi Arabia",
@@ -3028,12 +3004,6 @@ var barData = [
         "Youtuber": "Infobells Bangla",
         "Subscribers": 15500000,
         "Category": "Education"
-    },
-    {
-        "Country": "Saudi Arabia",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd \u00fd\u00fd \u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd",
-        "Subscribers": 15500000,
-        "Category": "Shows"
     },
     {
         "Country": "Brazil",
@@ -3049,15 +3019,15 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "Talking Tom & Friends",
+        "Youtuber": "Talking Tom  Friends",
         "Subscribers": 15500000,
         "Category": "Entertainment"
     },
     {
         "Country": "Egypt",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd \u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd \u00fd\u00fd\u00fd\u00fd 5 \u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd",
+        "Youtuber": "5",
         "Subscribers": 15500000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "India",
@@ -3073,7 +3043,7 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "Mobile Legends: Bang Bang",
+        "Youtuber": "Mobile Legends Bang Bang",
         "Subscribers": 15400000,
         "Category": "Gaming"
     },
@@ -3081,13 +3051,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Roman Atwood Vlogs",
         "Subscribers": 15400000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United Kingdom",
         "Youtuber": "Mrwhosetheboss",
         "Subscribers": 15400000,
-        "Category": "Science & Technology"
+        "Category": "Science  Technology"
     },
     {
         "Country": "Thailand",
@@ -3103,9 +3073,9 @@ var barData = [
     },
     {
         "Country": "Indonesia",
-        "Youtuber": "Kerajinan 5-Menit",
+        "Youtuber": "Kerajinan 5Menit",
         "Subscribers": 15400000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Spain",
@@ -3115,7 +3085,7 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "Dave and Ava - Nursery Rhymes and Baby Songs",
+        "Youtuber": "Dave and Ava  Nursery Rhymes and Baby Songs",
         "Subscribers": 15300000,
         "Category": "Education"
     },
@@ -3129,7 +3099,7 @@ var barData = [
         "Country": "Russia",
         "Youtuber": "ILYA BORZOV",
         "Subscribers": 15300000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
@@ -3139,9 +3109,9 @@ var barData = [
     },
     {
         "Country": "India",
-        "Youtuber": "Pok\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "Pok",
         "Subscribers": 15200000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
@@ -3169,13 +3139,13 @@ var barData = [
     },
     {
         "Country": "India",
-        "Youtuber": "T-Series Hamaar Bhojpuri",
+        "Youtuber": "TSeries Hamaar Bhojpuri",
         "Subscribers": 15200000,
         "Category": "Entertainment"
     },
     {
         "Country": "Turkey",
-        "Youtuber": "Oyuncak Av\u00ef\u00bf",
+        "Youtuber": "Oyuncak Av",
         "Subscribers": 15200000,
         "Category": "Entertainment"
     },
@@ -3183,19 +3153,19 @@ var barData = [
         "Country": "United States",
         "Youtuber": "CNN",
         "Subscribers": 15200000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "India",
         "Youtuber": "NDTV India",
         "Subscribers": 15200000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "United States",
-        "Youtuber": "It's Mamix",
+        "Youtuber": "Its Mamix",
         "Subscribers": 15100000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Indonesia",
@@ -3207,19 +3177,19 @@ var barData = [
         "Country": "Philippines",
         "Youtuber": "Ranz Kyle",
         "Subscribers": 15100000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
         "Youtuber": "PowerfulJRE",
         "Subscribers": 15100000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
         "Youtuber": "Mariale",
         "Subscribers": 15100000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "Spain",
@@ -3229,9 +3199,9 @@ var barData = [
     },
     {
         "Country": "Egypt",
-        "Youtuber": "Mohamed Ramadan I \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef",
+        "Youtuber": "Mohamed Ramadan I ",
         "Subscribers": 15100000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Russia",
@@ -3247,15 +3217,15 @@ var barData = [
     },
     {
         "Country": "Argentina",
-        "Youtuber": "Rub\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "Rub",
         "Subscribers": 15100000,
         "Category": "Comedy"
     },
     {
         "Country": "Philippines",
-        "Youtuber": "ABS-CBN News",
+        "Youtuber": "ABSCBN News",
         "Subscribers": 15100000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "Russia",
@@ -3279,11 +3249,11 @@ var barData = [
         "Country": "India",
         "Youtuber": "Chetan Monga Vlogs",
         "Subscribers": 15000000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Brazil",
-        "Youtuber": "Little Angel - M\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "Little Angel  M",
         "Subscribers": 15000000,
         "Category": "Entertainment"
     },
@@ -3315,7 +3285,7 @@ var barData = [
         "Country": "India",
         "Youtuber": "Republic Bharat",
         "Subscribers": 15000000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "India",
@@ -3339,17 +3309,17 @@ var barData = [
         "Country": "Indonesia",
         "Youtuber": "KOMPASTV",
         "Subscribers": 15000000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "Japan",
-        "Youtuber": "ISSEI / \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "ISSEI  ",
         "Subscribers": 15000000,
         "Category": "Comedy"
     },
     {
         "Country": "Brazil",
-        "Youtuber": "Z\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef",
+        "Youtuber": "Z",
         "Subscribers": 15000000,
         "Category": "Music"
     },
@@ -3385,21 +3355,15 @@ var barData = [
     },
     {
         "Country": "Spain",
-        "Youtuber": "iTownGamePlay *Terror&Diversi\u00ef\u00bf\u00bd\u00ef",
+        "Youtuber": "iTownGamePlay TerrorDiversi",
         "Subscribers": 14900000,
         "Category": "Entertainment"
     },
     {
         "Country": "Thailand",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd8 : Thai Ch8",
+        "Youtuber": "8  Thai Ch8",
         "Subscribers": 14900000,
         "Category": "Entertainment"
-    },
-    {
-        "Country": "Russia",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd",
-        "Subscribers": 14900000,
-        "Category": "People & Blogs"
     },
     {
         "Country": "Brazil",
@@ -3438,20 +3402,14 @@ var barData = [
         "Category": "Gaming"
     },
     {
-        "Country": "Ukraine",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd \u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd",
-        "Subscribers": 14800000,
-        "Category": "Howto & Style"
-    },
-    {
         "Country": "United States",
         "Youtuber": "Meghan Trainor",
         "Subscribers": 14800000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Brazil",
-        "Youtuber": "Jorge & Mateus Oficial",
+        "Youtuber": "Jorge  Mateus Oficial",
         "Subscribers": 14800000,
         "Category": "Music"
     },
@@ -3459,19 +3417,13 @@ var barData = [
         "Country": "Germany",
         "Youtuber": "Beast Philanthropy",
         "Subscribers": 14800000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
-        "Youtuber": "5-Minute Crafts Recycle",
+        "Youtuber": "5Minute Crafts Recycle",
         "Subscribers": 14800000,
-        "Category": "People & Blogs"
-    },
-    {
-        "Country": "Saudi Arabia",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd \u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd",
-        "Subscribers": 14700000,
-        "Category": "Entertainment"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -3511,7 +3463,7 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "Netflix Jr.",
+        "Youtuber": "Netflix Jr",
         "Subscribers": 14700000,
         "Category": "Education"
     },
@@ -3525,7 +3477,7 @@ var barData = [
         "Country": "United States",
         "Youtuber": "ABC News",
         "Subscribers": 14700000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "Brazil",
@@ -3543,7 +3495,7 @@ var barData = [
         "Country": "Spain",
         "Youtuber": "Auron",
         "Subscribers": 14600000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -3553,9 +3505,9 @@ var barData = [
     },
     {
         "Country": "Brazil",
-        "Youtuber": "Planeta das G\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "Planeta das G",
         "Subscribers": 14600000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -3585,7 +3537,7 @@ var barData = [
         "Country": "Mexico",
         "Youtuber": "Mis Pastelitos",
         "Subscribers": 14600000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "India",
@@ -3607,9 +3559,9 @@ var barData = [
     },
     {
         "Country": "Brazil",
-        "Youtuber": "IDEIAS INCR\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "IDEIAS INCR",
         "Subscribers": 14500000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "United States",
@@ -3621,13 +3573,13 @@ var barData = [
         "Country": "United Kingdom",
         "Youtuber": "BBC News",
         "Subscribers": 14500000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "South Korea",
-        "Youtuber": "Boram Tube ToysReview [\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf",
+        "Youtuber": "Boram Tube ToysReview ",
         "Subscribers": 14500000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
@@ -3651,7 +3603,7 @@ var barData = [
         "Country": "India",
         "Youtuber": "TV9 Bharatvarsh",
         "Subscribers": 14500000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -3661,7 +3613,7 @@ var barData = [
     },
     {
         "Country": "Morocco",
-        "Youtuber": "Saad Lamjarred | \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf",
+        "Youtuber": "Saad Lamjarred  ",
         "Subscribers": 14500000,
         "Category": "Music"
     },
@@ -3672,14 +3624,8 @@ var barData = [
         "Category": "Comedy"
     },
     {
-        "Country": "South Korea",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd",
-        "Subscribers": 14400000,
-        "Category": "Entertainment"
-    },
-    {
         "Country": "India",
-        "Youtuber": "Gyan Gaming\u00ef\u00bf\u00bd",
+        "Youtuber": "Gyan Gaming",
         "Subscribers": 14400000,
         "Category": "Gaming"
     },
@@ -3691,7 +3637,7 @@ var barData = [
     },
     {
         "Country": "Saudi Arabia",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd \u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd I \u00fd\u00fd\u00fd\u00fd\u00fd\u00fd \u00fd\u00fd \u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd",
+        "Youtuber": "  I   ",
         "Subscribers": 14400000,
         "Category": "Entertainment"
     },
@@ -3717,13 +3663,13 @@ var barData = [
         "Country": "India",
         "Youtuber": "Indore Physical Academy",
         "Subscribers": 14400000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
         "Youtuber": "Rosanna Pansino",
         "Subscribers": 14400000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "India",
@@ -3747,11 +3693,11 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Super Polina",
         "Subscribers": 14300000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Philippines",
-        "Youtuber": "Wish 107.5",
+        "Youtuber": "Wish 1075",
         "Subscribers": 14200000,
         "Category": "Music"
     },
@@ -3759,7 +3705,7 @@ var barData = [
         "Country": "Brazil",
         "Youtuber": "Invento na Hora",
         "Subscribers": 14200000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "Ukraine",
@@ -3771,7 +3717,7 @@ var barData = [
         "Country": "Netherlands",
         "Youtuber": "NikkieTutorials",
         "Subscribers": 14200000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "United Kingdom",
@@ -3781,13 +3727,13 @@ var barData = [
     },
     {
         "Country": "Mexico",
-        "Youtuber": "E-MasterSensei",
+        "Youtuber": "EMasterSensei",
         "Subscribers": 14200000,
         "Category": "Gaming"
     },
     {
         "Country": "India",
-        "Youtuber": "infobells - Kannada",
+        "Youtuber": "infobells  Kannada",
         "Subscribers": 14200000,
         "Category": "Education"
     },
@@ -3825,7 +3771,7 @@ var barData = [
         "Country": "United Arab Emirates",
         "Youtuber": "Supercar Blondie",
         "Subscribers": 14100000,
-        "Category": "Autos & Vehicles"
+        "Category": "Autos  Vehicles"
     },
     {
         "Country": "Indonesia",
@@ -3847,7 +3793,7 @@ var barData = [
     },
     {
         "Country": "United Kingdom",
-        "Youtuber": "F2Freestylers - Ultimate Soccer Skills Channel",
+        "Youtuber": "F2Freestylers  Ultimate Soccer Skills Channel",
         "Subscribers": 14100000,
         "Category": "Sports"
     },
@@ -3867,23 +3813,17 @@ var barData = [
         "Country": "Sweden",
         "Youtuber": "Narins Beauty",
         "Subscribers": 14000000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "Mexico",
         "Youtuber": "TV Ana Emilia",
         "Subscribers": 14000000,
-        "Category": "People & Blogs"
-    },
-    {
-        "Country": "Russia",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd",
-        "Subscribers": 14000000,
-        "Category": "Gaming"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Spain",
-        "Youtuber": "Luli Pamp\u00ef\u00bf\u00bd",
+        "Youtuber": "Luli Pamp",
         "Subscribers": 14000000,
         "Category": "Music"
     },
@@ -3897,13 +3837,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "ViralHog",
         "Subscribers": 14000000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
         "Youtuber": "ETV Jabardasth",
         "Subscribers": 14000000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
@@ -3933,11 +3873,11 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Darkar Company Studios",
         "Subscribers": 13900000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "India",
-        "Youtuber": "T-Series Regional",
+        "Youtuber": "TSeries Regional",
         "Subscribers": 13900000,
         "Category": "Entertainment"
     },
@@ -3951,7 +3891,7 @@ var barData = [
         "Country": "Bangladesh",
         "Youtuber": "Jamuna TV",
         "Subscribers": 13900000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "United States",
@@ -3975,25 +3915,25 @@ var barData = [
         "Country": "Canada",
         "Youtuber": "Hacksmith Industries",
         "Subscribers": 13800000,
-        "Category": "Science & Technology"
+        "Category": "Science  Technology"
     },
     {
         "Country": "Netherlands",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd/Atro",
+        "Youtuber": "Atro",
         "Subscribers": 13800000,
         "Category": "Gaming"
     },
     {
         "Country": "Mexico",
-        "Youtuber": "123 GO! Spanish",
+        "Youtuber": "123 GO Spanish",
         "Subscribers": 13800000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Pakistan",
         "Youtuber": "Geo News",
         "Subscribers": 13800000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "India",
@@ -4009,7 +3949,7 @@ var barData = [
     },
     {
         "Country": "Brazil",
-        "Youtuber": "O Que N\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf",
+        "Youtuber": "O Que N",
         "Subscribers": 13700000,
         "Category": "Comedy"
     },
@@ -4035,13 +3975,13 @@ var barData = [
         "Country": "India",
         "Youtuber": "NishaMadhulika",
         "Subscribers": 13700000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "India",
         "Youtuber": "MyMissAnand",
         "Subscribers": 13700000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Vietnam",
@@ -4051,7 +3991,7 @@ var barData = [
     },
     {
         "Country": "Brazil",
-        "Youtuber": "Wesley Safad\u00ef\u00bf\u00bd",
+        "Youtuber": "Wesley Safad",
         "Subscribers": 13700000,
         "Category": "Music"
     },
@@ -4081,7 +4021,7 @@ var barData = [
     },
     {
         "Country": "India",
-        "Youtuber": "JOJO TV - Hindi Stories",
+        "Youtuber": "JOJO TV  Hindi Stories",
         "Subscribers": 13600000,
         "Category": "Education"
     },
@@ -4089,7 +4029,7 @@ var barData = [
         "Country": "United Kingdom",
         "Youtuber": "BBC",
         "Subscribers": 13600000,
-        "Category": "Pets & Animals"
+        "Category": "Pets  Animals"
     },
     {
         "Country": "United States",
@@ -4113,7 +4053,7 @@ var barData = [
         "Country": "India",
         "Youtuber": "Anaysa",
         "Subscribers": 13500000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "United Kingdom",
@@ -4141,7 +4081,7 @@ var barData = [
     },
     {
         "Country": "United Kingdom",
-        "Youtuber": "Woody & Kleiny",
+        "Youtuber": "Woody  Kleiny",
         "Subscribers": 13500000,
         "Category": "Comedy"
     },
@@ -4161,7 +4101,7 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Wengie",
         "Subscribers": 13500000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "Colombia",
@@ -4171,15 +4111,15 @@ var barData = [
     },
     {
         "Country": "India",
-        "Youtuber": "The World Adventures \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "The World Adventures ",
         "Subscribers": 13400000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
-        "Youtuber": "ATHLEAN-X\u00ef\u00bf\u00bd",
+        "Youtuber": "ATHLEANX",
         "Subscribers": 13400000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "Thailand",
@@ -4197,25 +4137,25 @@ var barData = [
         "Country": "Philippines",
         "Youtuber": "GMA Integrated News",
         "Subscribers": 13400000,
-        "Category": "News & Politics"
+        "Category": "News  Politics"
     },
     {
         "Country": "United States",
         "Youtuber": "Peet Montzingo",
         "Subscribers": 13400000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
         "Youtuber": "The Q",
         "Subscribers": 13400000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
         "Youtuber": "Trakin Tech",
         "Subscribers": 13300000,
-        "Category": "Science & Technology"
+        "Category": "Science  Technology"
     },
     {
         "Country": "United States",
@@ -4242,16 +4182,10 @@ var barData = [
         "Category": "Entertainment"
     },
     {
-        "Country": "Russia",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd",
-        "Subscribers": 13300000,
-        "Category": "People & Blogs"
-    },
-    {
         "Country": "United States",
-        "Youtuber": "Kids Line\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "Kids Line",
         "Subscribers": 13300000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Ukraine",
@@ -4273,9 +4207,9 @@ var barData = [
     },
     {
         "Country": "India",
-        "Youtuber": "Kabita's Kitchen",
+        "Youtuber": "Kabitas Kitchen",
         "Subscribers": 13300000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "Saudi Arabia",
@@ -4291,13 +4225,13 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "HUBA\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "HUBA",
         "Subscribers": 13200000,
         "Category": "Entertainment"
     },
     {
         "Country": "Russia",
-        "Youtuber": "BIBO \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf",
+        "Youtuber": "BIBO ",
         "Subscribers": 13200000,
         "Category": "Entertainment"
     },
@@ -4333,21 +4267,21 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fdTwinsFromRussia",
+        "Youtuber": "TwinsFromRussia",
         "Subscribers": 13200000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
         "Youtuber": "Technology Gyan",
         "Subscribers": 13200000,
-        "Category": "Science & Technology"
+        "Category": "Science  Technology"
     },
     {
         "Country": "India",
         "Youtuber": "CookingShooking Hindi",
         "Subscribers": 13200000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -4359,7 +4293,7 @@ var barData = [
         "Country": "Philippines",
         "Youtuber": "Alex Gonzaga Official",
         "Subscribers": 13100000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "India",
@@ -4371,19 +4305,19 @@ var barData = [
         "Country": "Brazil",
         "Youtuber": "Painzeiro",
         "Subscribers": 13100000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Brazil",
-        "Youtuber": "Peppa Pig em Portugu\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf",
+        "Youtuber": "Peppa Pig em Portugu",
         "Subscribers": 13100000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "United States",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd Ms Yeah",
+        "Youtuber": " Ms Yeah",
         "Subscribers": 13100000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Brazil",
@@ -4395,7 +4329,7 @@ var barData = [
         "Country": "Ecuador",
         "Youtuber": "RaptorGamer",
         "Subscribers": 13100000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Brazil",
@@ -4441,7 +4375,7 @@ var barData = [
     },
     {
         "Country": "South Korea",
-        "Youtuber": "GH'S",
+        "Youtuber": "GHS",
         "Subscribers": 13000000,
         "Category": "Gaming"
     },
@@ -4471,9 +4405,9 @@ var barData = [
     },
     {
         "Country": "Brazil",
-        "Youtuber": "Pastor Ant\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef",
+        "Youtuber": "Pastor Ant",
         "Subscribers": 12900000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Brazil",
@@ -4489,7 +4423,7 @@ var barData = [
     },
     {
         "Country": "South Korea",
-        "Youtuber": "BIBO\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef",
+        "Youtuber": "BIBO",
         "Subscribers": 12900000,
         "Category": "Entertainment"
     },
@@ -4507,21 +4441,15 @@ var barData = [
     },
     {
         "Country": "United Arab Emirates",
-        "Youtuber": "AlArabiya \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf",
+        "Youtuber": "AlArabiya ",
         "Subscribers": 12900000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
         "Youtuber": "EnriqueIglesiasVEVO",
         "Subscribers": 12900000,
         "Category": "Music"
-    },
-    {
-        "Country": "Ukraine",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd \u00fd\u00fd\u00fd\u00fd \u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd",
-        "Subscribers": 12900000,
-        "Category": "Shows"
     },
     {
         "Country": "Indonesia",
@@ -4537,7 +4465,7 @@ var barData = [
     },
     {
         "Country": "Iraq",
-        "Youtuber": "Melon City Show - \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf",
+        "Youtuber": "Melon City Show  ",
         "Subscribers": 12800000,
         "Category": "Comedy"
     },
@@ -4567,7 +4495,7 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "Beyonc\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "Beyonc",
         "Subscribers": 12800000,
         "Category": "Music"
     },
@@ -4579,7 +4507,7 @@ var barData = [
     },
     {
         "Country": "Spain",
-        "Youtuber": "Adexe & Nau",
+        "Youtuber": "Adexe  Nau",
         "Subscribers": 12700000,
         "Category": "Music"
     },
@@ -4599,7 +4527,7 @@ var barData = [
         "Country": "United States",
         "Youtuber": "Blossom",
         "Subscribers": 12700000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "Brazil",
@@ -4609,9 +4537,9 @@ var barData = [
     },
     {
         "Country": "Colombia",
-        "Youtuber": "Go Ami Go!",
+        "Youtuber": "Go Ami Go",
         "Subscribers": 12700000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United Kingdom",
@@ -4623,13 +4551,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "CaseyNeistat",
         "Subscribers": 12600000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "South Korea",
-        "Youtuber": "\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fd\u00fdSULGI",
+        "Youtuber": "SULGI",
         "Subscribers": 12600000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United States",
@@ -4659,7 +4587,7 @@ var barData = [
         "Country": "India",
         "Youtuber": "Health Time",
         "Subscribers": 12500000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "Mexico",
@@ -4669,7 +4597,7 @@ var barData = [
     },
     {
         "Country": "Spain",
-        "Youtuber": "Little Baby Bum en Espa\u00ef\u00bf\u00bd\u00ef",
+        "Youtuber": "Little Baby Bum en Espa",
         "Subscribers": 12500000,
         "Category": "Education"
     },
@@ -4677,13 +4605,13 @@ var barData = [
         "Country": "United States",
         "Youtuber": "First We Feast",
         "Subscribers": 12500000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "Mexico",
-        "Youtuber": "M\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd",
+        "Youtuber": "M",
         "Subscribers": 12500000,
-        "Category": "Travel & Events"
+        "Category": "Travel  Events"
     },
     {
         "Country": "Brazil",
@@ -4741,7 +4669,7 @@ var barData = [
     },
     {
         "Country": "United States",
-        "Youtuber": "_vector_",
+        "Youtuber": "vector",
         "Subscribers": 12400000,
         "Category": "Comedy"
     },
@@ -4753,9 +4681,9 @@ var barData = [
     },
     {
         "Country": "Mexico",
-        "Youtuber": "Gibby :)",
+        "Youtuber": "Gibby ",
         "Subscribers": 12400000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Indonesia",
@@ -4777,7 +4705,7 @@ var barData = [
     },
     {
         "Country": "Spain",
-        "Youtuber": "DaniRep | +6 V\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\u00ef",
+        "Youtuber": "DaniRep  6 V",
         "Subscribers": 12400000,
         "Category": "Gaming"
     },
@@ -4785,13 +4713,13 @@ var barData = [
         "Country": "India",
         "Youtuber": "Zee Kids",
         "Subscribers": 12400000,
-        "Category": "Film & Animation"
+        "Category": "Film  Animation"
     },
     {
         "Country": "India",
-        "Youtuber": "Pari's Lifestyle",
+        "Youtuber": "Paris Lifestyle",
         "Subscribers": 12400000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "United Kingdom",
@@ -4803,7 +4731,7 @@ var barData = [
         "Country": "India",
         "Youtuber": "bharatzkitchen HINDI",
         "Subscribers": 12400000,
-        "Category": "Howto & Style"
+        "Category": "Howto  Style"
     },
     {
         "Country": "United States",
@@ -4825,7 +4753,7 @@ var barData = [
     },
     {
         "Country": "Brazil",
-        "Youtuber": "Natan por A\u00ef\u00bf",
+        "Youtuber": "Natan por A",
         "Subscribers": 12300000,
         "Category": "Sports"
     },
@@ -4833,7 +4761,7 @@ var barData = [
         "Country": "India",
         "Youtuber": "Free Fire India Official",
         "Subscribers": 12300000,
-        "Category": "People & Blogs"
+        "Category": "People  Blogs"
     },
     {
         "Country": "Sweden",

@@ -10,9 +10,9 @@ def home():
 def alex():
     return render_template("alex.html")
 
-@app.route("will.html")
+@app.route("/will")
 def will():
-    return render_template("will.html")
+    return render_template("youtubersubs.html")
 # @app.route("Insert Route Here")
 
 if __name__ == "__main__":
