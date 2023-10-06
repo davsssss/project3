@@ -1,75 +1,89 @@
-<!DOCTYPE html>
+
+{% extends 'base.html' %}
+
+{% block content %}
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Dropdown Events</title>
+
+    <link rel="stylesheet" href="styles.css" media="screen">
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
+<style>
+h1 {text-align: center;
+    font-family: Arial;
+}
+div {text-align: center;}
+</style>
 <body>
-    <div class="container">
-    <h2>Top 1000 Youtube Channels' Info by Country</h2>
-    <p>Category of Youtube content</p>
-    <select id="selDataset">
-        <option value="Argentina">Argentina</option>
-        <option value="Australia">Australia</option>
-        <option value="Bangladesh">Bangladesh</option>
-        <option value="Barbados">Barbados</option>
-        <option value="Brazil">Brazil</option>
-        <option value="Canada">Canada</option>
-        <option value="Chile">Chile</option>
-        <option value="China">China</option>
-        <option value="Colombia">Colombia</option>
-        <option value="Cuba">Cuba</option>
-        <option value="Ecuador">Ecuador</option>
-        <option value="Egypt">Egypt</option>
-        <option value="El Salvador">El Salvador</option>
-        <option value="Finland">Finland</option>
-        <option value="France">France</option>
-        <option value="Germany">Germany</option>
-        <option value="India">India</option>
-        <option value="Indonesia">Indonesia</option>
-        <option value="Iraq">Iraq</option>
-        <option value="Italy">Italy</option>
-        <option value="Japan">Japan</option>
-        <option value="Jordan">Jordan</option>
-        <option value="Kuwait">Kuwait</option>
-        <option value="Latvia">Latvia</option>
-        <option value="Malaysia">Malaysia</option>
-        <option value="Mexico">Mexico</option>
-        <option value="Morocco">Morocco</option>
-        <option value="Netherlands">Netherlands</option>
-        <option value="Pakistan">Pakistan</option>
-        <option value="Peru">Peru</option>
-        <option value="Philippines">Philippines</option>
-        <option value="Russia">Russia</option>
-        <option value="Samoa">Samoa</option>
-        <option value="Saudi Arabia">Saudi Arabia</option>
-        <option value="Singapore">Singapore</option>
-        <option value="South Korea">South Korea</option>
-        <option value="Spain">Spain</option>
-        <option value="Sweden">Sweden</option>
-        <option value="Switzerland">Switzerland</option>
-        <option value="Thailand">Thailand</option>
-        <option value="Turkey">Turkey</option>
-        <option value="Ukraine">Ukraine</option>
-        <option value="United Arab Emirates">United Arab Emirates</option>
-        <option value="United Kingdom">United Kingdom</option>
-        <option value="United States">United States</option>
-        <option value="Venezuela">Venezuela</option>
-        <option value="Vietnam">Vietnam</option>
-        
-    </select>
-
+  
+    <h1>Top 1000 Youtube Channels' Info by Country </h1>
     <div id="pie"></div>
+    <div class="container">
+        <select id="selDataset">
+            <option value="All Data">All Data</option>
+            <option value="Argentina">Argentina</option>
+            <option value="Australia">Australia</option>
+            <option value="Bangladesh">Bangladesh</option>
+            <option value="Barbados">Barbados</option>
+            <option value="Brazil">Brazil</option>
+            <option value="Canada">Canada</option>
+            <option value="Chile">Chile</option>
+            <option value="China">China</option>
+            <option value="Colombia">Colombia</option>
+            <option value="Cuba">Cuba</option>
+            <option value="Ecuador">Ecuador</option>
+            <option value="Egypt">Egypt</option>
+            <option value="El Salvador">El Salvador</option>
+            <option value="Finland">Finland</option>
+            <option value="France">France</option>
+            <option value="Germany">Germany</option>
+            <option value="India">India</option>
+            <option value="Indonesia">Indonesia</option>
+            <option value="Iraq">Iraq</option>
+            <option value="Italy">Italy</option>
+            <option value="Japan">Japan</option>
+            <option value="Jordan">Jordan</option>
+            <option value="Kuwait">Kuwait</option>
+            <option value="Latvia">Latvia</option>
+            <option value="Malaysia">Malaysia</option>
+            <option value="Mexico">Mexico</option>
+            <option value="Morocco">Morocco</option>
+            <option value="Netherlands">Netherlands</option>
+            <option value="Pakistan">Pakistan</option>
+            <option value="Peru">Peru</option>
+            <option value="Philippines">Philippines</option>
+            <option value="Russia">Russia</option>
+            <option value="Samoa">Samoa</option>
+            <option value="Saudi Arabia">Saudi Arabia</option>
+            <option value="Singapore">Singapore</option>
+            <option value="South Korea">South Korea</option>
+            <option value="Spain">Spain</option>
+            <option value="Sweden">Sweden</option>
+            <option value="Switzerland">Switzerland</option>
+            <option value="Thailand">Thailand</option>
+            <option value="Turkey">Turkey</option>
+            <option value="Ukraine">Ukraine</option>
+            <option value="United Arab Emirates">United Arab Emirates</option>
+            <option value="United Kingdom">United Kingdom</option>
+            <option value="United States">United States</option>
+            <option value="Venezuela">Venezuela</option>
+            <option value="Vietnam">Vietnam</option>
+        </select>
+    </div>
+
     <div id="bar"></div>
 
-    
+    <script src="../static/js/allCategoryData.js"></script>
     <script src="../static/js/barChartData.js"></script>
     <script src="../static/js/pieChartData.js"></script>
-    <script src="../static/js/Charts.js"></script>
-</div>
+    <script src="../static/js/Plotly.js"></script>
 </body>
-</html>
+{% endblock %}
+
+
