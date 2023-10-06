@@ -1,0 +1,63 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<br> </br>
+<h1>Our Youtube Database (top 100)</h1>
+<br> </br>
+
+    <table border = 0>
+        <thead>
+            <td><b>Rank_num</b></td>
+            <td><b>Youtuber</b></td>
+            <td><b>Subscribers</b></td>
+            <td><b>Video_views</b></td>
+            <td><b>Category</b></td>
+            <td><b>Uploads</b></td>
+            <td><b>Country</b></td>
+            <td><b>Abbreviation</b></td>
+            <td><b>Channel_type</b></td>
+            <td><b>Video_views_for_the_last_30_days</b></td>
+            <td><b>Lowest_monthly_earnings</b></td>
+            <td><b>Highest_monthly_earnings</b></td>
+            <td><b>Lowest_yearly_earnings</b></td>
+            <td><b>Highest_yearly_earnings</b></td>
+            <td><b>Created_year</b></td>
+            <td><b>Created_month</b></td>
+            <td><b>Created_date</b></td>
+            <td><b>Gross_tertiary_education_enrollment_pct</b></td>
+            <td><b>Latitude</b></td>
+            <td><b>Longitude</b></td>
+
+
+        </thead>
+    
+
+    {% for row in pfc_data %}
+        <tr>
+            <td>{{row["Rank_num"]}}</td>
+            <td>{{row["Youtuber"]}}</td>
+            <td>{{row["Subscribers"]}}</td>
+            <td>{{row["Video_views"]}}</td>
+            <td>{{row["Category"]}}</td>
+            <td>{{row["Uploads"]}}</td>
+            <td>{{row["Country"]}}</td>
+            <td>{{row["Abbreviation"]}}</td>
+            <td>{{row["Channel_type"]}}</td>
+            <td>{{row["Video_views_for_the_last_30_days"]}}</td>
+            <td>{{row["Lowest_monthly_earnings"]}}</td>
+            <td>{{row["Highest_monthly_earnings"]}}</td>
+            <td>{{row["Lowest_yearly_earnings"]}}</td>
+            <td>{{row["Highest_yearly_earnings"]}}</td>
+            <td>{{row["Created_year"]}}</td>
+            <td>{{row["Created_month"]}}</td>
+            <td>{{row["Created_date"]}}</td>
+            <td>{{row["Gross_tertiary_education_enrollment_pct"]}}</td>
+            <td>{{row["Latitude"]}}</td>
+            <td>{{row["Longitude"]}}</td>
+        </tr>
+    {% endfor %}
+    </table>
+
+
+{% endblock %}

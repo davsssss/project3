@@ -1,0 +1,20 @@
+var allCatData = {
+    "Entertainment": 204,
+    "Music": 178,
+    "People  Blogs": 99,
+    "Gaming": 78,
+    "Comedy": 61,
+    "Education": 40,
+    "Film  Animation": 33,
+    "Howto  Style": 31,
+    "News  Politics": 26,
+    "Science  Technology": 13,
+    "Sports": 11,
+    "Shows": 10,
+    "Pets  Animals": 3,
+    "Trailers": 2,
+    "Nonprofits  Activism": 2,
+    "Movies": 2,
+    "Autos  Vehicles": 2,
+    "Travel  Events": 1
+};

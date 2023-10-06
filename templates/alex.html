@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+{% extends 'base.html' %}
+
+{% block content %}
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -21,6 +24,7 @@ div {text-align: center;}
     <div id="pie"></div>
     <div class="container">
         <select id="selDataset">
+            <option value="All Data">All Data</option>
             <option value="Argentina">Argentina</option>
             <option value="Australia">Australia</option>
             <option value="Bangladesh">Bangladesh</option>
@@ -73,9 +77,9 @@ div {text-align: center;}
 
     <div id="bar"></div>
 
-    
+    <script src="../static/js/allCategoryData.js"></script>
     <script src="../static/js/barChartData.js"></script>
     <script src="../static/js/pieChartData.js"></script>
     <script src="../static/js/Plotly.js"></script>
 </body>
-</html>
+{% endblock %}

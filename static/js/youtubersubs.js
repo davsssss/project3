@@ -1,9 +1,8 @@
-// Initialize chart.
 document.addEventListener('DOMContentLoaded', function() {
     var ctx = document.getElementById('youtubeChart').getContext('2d');
     var myChart;
 
-    var originalData; // Store the original data from CSV
+    var originalData; // Store the original data from SQLite
 
     function createChart(labels, data) {
         if (myChart) {
@@ -32,6 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     }
+
     // Create filter and dropdown based on Country of Youtuber
     function filterData(country) {
         if (country === 'All') {
@@ -43,25 +43,28 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    // Parse through the CSV file for our Youtuber data and Subscriber counts
-    Papa.parse('./../SQL/clean_data/pfc_data.csv', {
-        header: true,
-        download: true,
-        skipEmptyLines: true,
-        complete: function(results) {
-            originalData = results.data;
+    function fetchData() {
+        // Fetch data from SQLite database using a backend API
+        fetch('/json_youtube') // Update with your actual API endpoint
+            .then(response => response.json())
+            .then(data => {
+                originalData = data;
 
-            var labels = originalData.map(function(item) {
-                return item.Youtuber;
-            });
+                var labels = originalData.map(function(item) {
+                    return item.Youtuber;
+                });
 
-            var subscribers = originalData.map(function(item) {
-                return item.Subscribers;
-            });
+                var subscribers = originalData.map(function(item) {
+                    return item.Subscribers;
+                });
 
-            createChart(labels, subscribers);
-        }
-    });
+                createChart(labels, subscribers);
+            })
+            .catch(error => console.error('Error fetching data:', error));
+    }
+
+    // Call the function to fetch data
+    fetchData();
 
     // Add event listener for the country dropdown
     document.getElementById('countrySelect').addEventListener('change', function() {
