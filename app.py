@@ -1,11 +1,14 @@
+
 from flask import Flask, render_template, jsonify
 import sqlite3
+
 
 app = Flask(__name__)
 
 @app.route("/")
 def home():
     return render_template("index.html")
+
 
 @app.route("/introduction")
 def introduction():
@@ -60,6 +63,7 @@ def alex():
 @app.route("/will")
 def will():
     return render_template("youtubersubs.html")
+
 
 if __name__ == "__main__":
     app.run(debug=True)
